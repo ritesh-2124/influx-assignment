@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "62c6eb18409524453e9747d1"
+  },
+  "code": 101,
+  "qty": 3,
+  "name": "Books",
+  "unitPrice": 20,
+  "totalAmt": 60,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657203480372"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657203480372"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6eb33409524453e9747d4"
+  },
+  "code": 101,
+  "qty": 3,
+  "name": "Books",
+  "unitPrice": 20,
+  "totalAmt": 60,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657203507232"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657203507232"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6eb90409524453e9747d7"
+  },
+  "code": 101,
+  "qty": 4,
+  "name": "Books",
+  "unitPrice": 20,
+  "totalAmt": 80,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657203600354"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657203600354"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6eb98409524453e9747da"
+  },
+  "code": 100,
+  "qty": 4,
+  "name": "Pens",
+  "unitPrice": 20,
+  "totalAmt": 80,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657203608707"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657203608707"
+    }
+  }
+}]

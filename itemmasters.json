@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "62c6de3d301da71e72f5de30"
+  },
+  "code": 100,
+  "name": "Pens",
+  "price": 20,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657200189271"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657200189271"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62c6de51301da71e72f5de34"
+  },
+  "code": 101,
+  "name": "Books",
+  "price": 20,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1657200209902"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1657200209902"
+    }
+  }
+}]
